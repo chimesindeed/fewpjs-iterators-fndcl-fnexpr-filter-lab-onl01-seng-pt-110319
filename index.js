@@ -1,7 +1,7 @@
 // Code your solution here
 
-function findMatching(arr, str){
-  
+function findMatching(arr, name){
+  arr.filter =
 }
 
 function fuzzyMatch(){}
